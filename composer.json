@@ -1,5 +1,5 @@
 {
-    "name": "myth/auth",
+    "name": "gazer22/myth-auth",
     "description": "Flexible authentication/authorization system for CodeIgniter 4.",
     "license": "MIT",
     "type": "library",
